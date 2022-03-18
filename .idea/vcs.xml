@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/casn-Cakenumber1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dijkstra-Cakenumber1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dynamic-array-Cakenumber1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/faa-queue-Cakenumber1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/fc-priority-queue-Cakenumber1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/fine-grained-bank-Cakenumber1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lamport-lock-fail-Cakenumber1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/linked-list-set-Cakenumber1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lock-free-bank-Cakenumber1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mcs-lock-Cakenumber1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/monotonic-clock-Cakenumber1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/msqueue-Cakenumber1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/possible-executions-analysis-Cakenumber1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/skip-list-Cakenumber1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/stack-elimination-Cakenumber1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/stm-bank-Cakenumber1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/synchronous-queue-Cakenumber1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/universal-construction-Cakenumber1" vcs="Git" />
+  </component>
+</project>
